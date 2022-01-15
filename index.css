@@ -1,0 +1,137 @@
+img.center {display: block; margin-left: auto; margin-right: auto;}
+
+.rolex_clock {
+    background-color: #006039;
+    display: block;
+	text-align: center;
+}
+
+font1 {
+    color: white;
+    font-size: 20px;  
+}
+
+body {
+    margin-left: 10%; margin-right: 10%;
+    font-family: 'Cormorant Garamond', serif;
+	display: block;
+}
+
+copyright {
+    display: block;
+	text-align: center;
+	font-size: 1em;
+	background: white;
+	margin-top: 15px;
+}
+
+tt_txt {
+    font-size: 29px;
+    color: #242424;
+    text-align: center;
+    line-height: 35px;
+	margin-bottom: 20px;
+	display: block;
+	padding: 0 80px;
+}
+
+footer {
+	background: black;
+}
+tt_red {
+    font-size:80px;
+    color: #ff0000;
+    margin: 0 auto;
+    line-height: 80px;
+    margin-bottom: 19px;
+    font-weight: lighter;
+    text-align: center;
+    display: block;
+    padding-bottom: 10px;		 
+}
+.thanh_sig {
+	display: block;
+	margin: 0 auto;
+	padding-bottom: 25px;
+}
+
+.Thanh_txt {
+    font-size: 29px;
+	color: #242424;
+	text-align: center;
+	line-height: 35px;
+	margin-bottom: 5px;
+	display: block;
+	padding: 0 80px;
+}
+
+thanhnews {
+    width: 100%;
+    display: block;	
+	padding-top: 18px
+}
+
+.thanhnews2 {
+	background-color: #e6e6e6;
+	color: #ff0000;
+	padding: 1%;
+	border: solid 1px #e6e6e6;
+	font-size: 22px;
+	text-align: left;
+	margin: 0;
+	width: auto;
+}
+
+.thanhnews3{
+	width: auto;
+	border: solid 1px #e6e6e6;
+	height: 263px;
+	overflow: scroll;
+}
+ul {
+	padding: 0;
+	margin: 0 0 9px 0;
+	list-style-type: none;
+	display: block;
+}
+
+.title {
+	font-weight: bold;
+	color: #ff0000;
+	line-height: 16px;
+}
+
+p {
+	margin-top: 5px; margin-bottom: 5px;
+}
+
+tracer {
+    width: 100%; background: #e6e6e6; display: block; height: 340px;
+}
+
+h4 {
+	font-size: 22px; padding: 12px 0; text-align: center; margin: 0px;
+}
+
+span {
+    display: block; padding: 5px 0px; text-align: center;	
+}
+
+.tday {
+	color: #ff0000;
+	font-size: 24px;
+	line-height: 24px;
+}
+
+.multi {
+	display: block;
+	width: 88%;
+	background: #fff;
+	padding: .7%;
+	margin: 15px auto;
+}
+
+.ttourney {
+	padding: 5px 0px;
+	font-size: 18px;
+}
